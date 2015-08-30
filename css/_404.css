@@ -1,0 +1,19 @@
+.container {
+    border: 1px solid rgb(216, 237, 252);
+}
+
+.items {
+    display: inline;
+}
+
+.item {
+    list-style: none;
+}
+
+.elements {
+    margin: 0 auto;
+}
+
+.logo {
+    margin: 10px auto;
+}
